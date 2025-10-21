@@ -1,0 +1,22 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.AplicacoesGraf" parent="Theme.Material3.DayNight.NoActionBar">
+
+        <item name="colorPrimary">@color/verde1_paleta</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorPrimaryContainer">@color/background_light</item>
+        <item name="colorOnPrimaryContainer">@color/verde1_paleta</item>
+
+        <item name="colorSecondary">@color/verde2_paleta</item>
+        <item name="colorOnSecondary">@color/white</item>
+
+        <item name="android:colorBackground">@color/background_light</item>
+        <item name="colorOnBackground">@color/text_dark</item>
+        <item name="colorSurface">@color/card_background_light</item>
+        <item name="colorOnSurface">@color/text_dark</item>
+
+        <item name="android:statusBarColor">@color/verde1_paleta</item>
+
+    </style>
+
+    <style name="Theme.AplicacoesGraf" parent="Base.Theme.AplicacoesGraf" />
+</resources>

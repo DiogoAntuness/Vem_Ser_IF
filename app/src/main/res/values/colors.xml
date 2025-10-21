@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Cores Padrão (podem ser mantidas) -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+    <color name="background_light">#E8F5E9</color>
+    <color name="card_background_light">#FFFFFF</color>
+    <color name="if_green_primary_dark">#4CAF50</color>
+    <color name="background_dark">#121212</color>
+    <color name="card_background_dark">#1E1E1E</color>
+    <color name="text_light">#E0E0E0</color>
+
+    <!-- Nova Paleta de Cores - IF Baiano -->
+    <color name="verde1_paleta">#457A38</color>
+    <color name="verde2_paleta">#739B64</color>
+    <color name="verde3_paleta">#A1BC91</color>
+    <color name="verde4_paleta">#D0DEBD</color>
+    <color name="verde5_paleta">#FEFFEA</color>
+    <color name="if_green_primary">#008037</color>      <!-- Verde principal para botões e destaques -->
+    <color name="if_green_dark">#004D21</color>        <!-- Verde escuro para textos e links -->
+    <color name="if_red_accent">#D32F2F</color>         <!-- Vermelho do logo para pequenos detalhes (opcional) -->
+
+    <color name="background_gradient_start">#FEFFEA</color> <!-- Verde muito claro para o topo do gradiente -->
+    <color name="background_gradient_end">#D0DEBD</color>   <!-- Branco para a base do gradiente -->
+    <color name="text_dark">#212121</color>             <!-- Cor de texto principal (cinza escuro) -->
+</resources>
