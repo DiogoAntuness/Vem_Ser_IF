@@ -1,18 +1,19 @@
 plugins {
     id("com.android.application")
     id("org.jetbrains.kotlin.android")
+    id("org.jetbrains.kotlin.plugin.compose") version "2.0.0"
 }
 
 android {
     namespace = "com.example.aplicacoesgraf"
-    compileSdk = 34 // Mantemos o 34, que é estável para sua versão do Gradle
+    compileSdk = 36
 
     defaultConfig {
-        applicationId = "com.example.aplicacoesgraf"
+        applicationId = "com.vemserif.aplicacoesgraf"
         minSdk = 24
-        targetSdk = 34 // É boa prática manter o targetSdk igual ao compileSdk
-        versionCode = 1
-        versionName = "1.0"
+        targetSdk = 36
+        versionCode = 2
+        versionName = "1.0.1"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
         vectorDrawables {

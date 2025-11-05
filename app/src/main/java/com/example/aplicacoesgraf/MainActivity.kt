@@ -29,10 +29,6 @@ class MainActivity : AppCompatActivity() {
             startActivity(intent)
         }
 
-        binding.buttonOpcoes.setOnClickListener {
-            Toast.makeText(this, "Abrir opções do aplicativo...", Toast.LENGTH_SHORT).show()
-        }
-
         binding.btnCreditos.setOnClickListener {
             val intent = Intent(this, CreditosActivity::class.java)
             startActivity(intent)

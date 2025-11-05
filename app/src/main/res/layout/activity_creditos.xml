@@ -162,7 +162,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginTop="4dp"
                         android:fontFamily="@font/nunito_regular"
-                        android:text="Criado no IF Baiano, campus Senhor do Bonfim. No curso de LCC na disciplina de Aplicações Gráficas no ano de 2025. Com o propósito de ser um teste vocacional para ajudar a guiar qualquer individuo com interesse em ingressar em uma das graduações do campus.  "
+                        android:text="Criado no Instituto Federal Baiano – Campus Senhor do Bonfim, durante o curso de Licenciatura em Ciência da Computação, na disciplina de Aplicações Gráficas (ano de 2025). O projeto tem como propósito servir como um teste vocacional, auxiliando estudantes e interessados a identificar o curso de graduação do campus que mais se alinha ao seu perfil e às suas afinidades pessoais e profissionais.  "
                         android:textColor="?attr/colorOnSurface"
                         android:justificationMode="inter_word"
                         android:textSize="16sp" />
